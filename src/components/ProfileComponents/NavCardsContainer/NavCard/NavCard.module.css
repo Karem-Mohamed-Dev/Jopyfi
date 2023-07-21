@@ -1,0 +1,16 @@
+.card {
+  background-color: #fff;
+  padding: 20px;
+  color: #000;
+  border-radius: 4px;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.1);
+}
+
+.card p {
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.card span {
+  color: #666;
+}

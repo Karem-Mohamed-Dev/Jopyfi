@@ -1,0 +1,152 @@
+.header {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  position: fixed;
+  box-shadow: 0 1px 8px 0 #eee;
+  padding: 0 40px;
+  z-index: 999;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1200px;
+}
+
+.header .logo img {
+  width: 120px;
+}
+
+.header nav .icon {
+  display: none;
+}
+.header nav ul {
+  display: flex;
+}
+.header nav ul li {
+  margin: 0 10px;
+}
+.header nav ul li a {
+  padding: 0px 25px;
+  color: #000;
+  text-transform: uppercase;
+  position: relative;
+  font-weight: 600;
+}
+.header nav ul li a::after {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0%;
+  height: 2px;
+  background-color: #2524d1;
+  transition: 0.4s;
+}
+
+.header nav ul li a:hover::after,
+.header nav ul li a.active::after {
+  width: 50%;
+  border-radius: 10px;
+}
+
+.profile {
+  display: none;
+  align-items: center;
+  column-gap: 10px;
+  height: 50px;
+}
+.profile img {
+  width: 50px;
+}
+.profile .details {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.profile .details span {
+  color: #aaa;
+  font-size: 0.9rem;
+}
+
+.header button {
+  padding: 12px 25px;
+  font-size: 1rem;
+  background-color: #2524d1;
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+}
+
+@media (max-width: 1250px) {
+  .profile {
+    display: flex;
+  }
+}
+
+@media (max-width: 1200px) {
+  .header {
+    padding: 0 20px;
+  }
+  .content {
+    width: 900px;
+  }
+  .header nav ul li a {
+    padding: 0 15px;
+  }
+  .header nav ul li {
+    margin: 0 5px;
+  }
+}
+
+
+@media (max-width: 830px) {
+  .header nav .icon {
+    display: block;
+    cursor: pointer;
+    font-size: 2rem;
+  }
+  .header nav {
+    background-color: #fff;
+  }
+  .header nav ul {
+    background-color: #fff;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    box-shadow: 0 10px 8px 0 rgb(0, 0, 0, 0.2);
+  }
+  .header nav ul.showMenu {
+    display: flex;
+  }
+  
+  .header nav ul li a {
+    display: flex;
+    width: 100%;
+    padding: 1.5rem;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .header nav ul li:last-child a {
+    border: none;
+  }
+  .header nav ul li a:hover::after,
+  .header nav ul li a.active::after {
+    width: 0;
+  }
+
+  .profile {
+    display: none;
+  }
+}

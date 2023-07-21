@@ -1,0 +1,1073 @@
+[
+  {
+    "id": 1,
+    "category": "designer",
+    "company_name": "Google",
+    "post_date": "2023-05-16",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+    "company_website": "https://www.google.com",
+    "job_title": "UX Designer",
+    "job_description": "We are looking for a talented UX Designer to create intuitive and engaging user experiences for our products and services.",
+    "salary": "$80,000 - $120,000",
+    "company_location": "Mountain View, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "3+ years of experience in UX design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles"
+      },
+      "what_you_will_do": "Create wireframes, prototypes and high-fidelity designs, conduct user research and usability testing, collaborate with cross-functional teams to ensure design consistency and usability"
+    }
+  },
+  {
+    "id": 2,
+    "category": "designer",
+    "company_name": "Microsoft",
+    "post_date": "2023-05-15",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+    "company_website": "https://www.microsoft.com",
+    "job_title": "Visual Designer",
+    "job_description": "We are seeking a talented Visual Designer to create stunning visuals for our digital products and marketing materials.",
+    "salary": "$90,000 - $130,000",
+    "company_location": "Redmond, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "5+ years of experience in visual design",
+        "skills": "Proficient in design tools such as Adobe Creative Suite, strong understanding of layout and typography"
+      },
+      "what_you_will_do": "Create visual designs for digital products, marketing materials and presentations, collaborate with cross-functional teams to ensure design consistency and branding"
+    }
+  },
+  {
+    "id": 3,
+    "category": "designer",
+    "company_name": "Amazon",
+    "post_date": "2023-05-14",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "company_website": "https://www.amazon.com",
+    "job_title": "UI Designer",
+    "job_description": "We are seeking a talented UI Designer to create visually appealing and user-friendly interfaces for our e-commerce platforms and digital products.",
+    "salary": "$100,000 - $140,000",
+    "company_location": "Seattle, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "5+ years of experience in UI design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of interface design principles and user behavior"
+      },
+      "what_you_will_do": "Create wireframes, prototypes and high-fidelity designs for interfaces, collaborate with cross-functional teams to ensure design consistency and usability, conduct user research and testing"
+    }
+  },
+  {
+    "id": 4,
+    "category": "designer",
+    "company_name": "Apple",
+    "post_date": "2023-05-13",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+    "company_website": "https://www.apple.com",
+    "job_title": "Product Designer",
+    "job_description": "We are looking for a talented Product Designer to create elegant and intuitive designs for our hardware and software products.",
+    "salary": "$120,000 - $160,000",
+    "company_location": "Cupertino, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "7+ years of experience in product design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles and design thinking"
+      },
+      "what_you_will_do": "Create product designs for hardware and software products, collaborate with cross-functional teams to ensure design consistency and user satisfaction, conduct user research and testing"
+    }
+  },
+  {
+    "id": 5,
+    "category": "designer",
+    "company_name": "Facebook",
+    "post_date": "2023-05-12",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg",
+    "company_website": "https://www.facebook.com",
+    "job_title": "Interaction Designer",
+    "job_description": "We are seeking a talented Interaction Designer to create engaging and interactive user experiences for our products and services.",
+    "salary": "$90,000 - $130,000",
+    "company_location": "Menlo Park, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "5+ years of experience in interaction design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles and interaction design patterns"
+      },
+      "what_you_will_do": "Create wireframes, prototypes and high-fidelity designs for interactions, collaborate with cross-functional teams to ensure design consistency and usability, conduct user research and testing"
+    }
+  },
+  {
+    "id": 6,
+    "category": "designer",
+    "company_name": "Google",
+    "post_date": "2023-05-17",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+    "company_website": "https://www.google.com",
+    "job_title": "UX Designer",
+    "job_description": "We are looking for a talented UX Designer to create innovative and user-friendly designs for our products.",
+    "salary": "$100,000 - $150,000",
+    "company_location": "Mountain View, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "5+ years of experience in UX design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles and information architecture"
+      },
+      "what_you_will_do": "Create wireframes, prototypes and high-fidelity designs for interfaces, collaborate with cross-functional teams to ensure design consistency and usability, conduct user research and testing"
+    }
+  },
+  {
+    "id": 7,
+    "category": "designer",
+    "company_name": "Microsoft",
+    "post_date": "2023-05-16",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+    "company_website": "https://www.microsoft.com",
+    "job_title": "Visual Designer",
+    "job_description": "We are seeking a Visual Designer to create beautiful and engaging designs for our products and services.",
+    "salary": "$90,000 - $120,000",
+    "company_location": "Redmond, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "3+ years of experience in visual design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of typography, color theory and composition"
+      },
+      "what_you_will_do": "Create visual designs for interfaces, collaborate with cross-functional teams to ensure design consistency and brand identity, conduct design reviews and presentations"
+    }
+  },
+  {
+    "id": 8,
+    "category": "designer",
+    "company_name": "Amazon",
+    "post_date": "2023-05-15",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "company_website": "https://www.amazon.com",
+    "job_title": "UI Designer",
+    "job_description": "We are looking for a talented UI Designer to create elegant and intuitive designs for our products and services.",
+    "salary": "$110,000 - $140,000",
+    "company_location": "Seattle, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "5+ years of experience in UI design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles and information architecture"
+      },
+      "what_you_will_do": "Create wireframes, prototypes and high-fidelity designs for interfaces, collaborate with cross-functional teams to ensure design consistency and usability, conduct user research and testing"
+    }
+  },
+  {
+    "id": 9,
+    "category": "designer",
+    "company_name": "Apple",
+    "post_date": "2023-05-14",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+    "company_website": "https://www.apple.com",
+    "job_title": "Product Designer",
+    "job_description": "We are looking for a talented Product Designer to create innovative and intuitive designs for our products and services.",
+    "salary": "$120,000 - $160,000",
+    "company_location": "Cupertino, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "5+ years of experience in product design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles and information architecture"
+      },
+      "what_you_will_do": "Collaborate with cross-functional teams to define product requirements and user needs, create wireframes, prototypes and high-fidelity designs for interfaces, conduct user research and testing"
+    }
+  },
+  {
+    "id": 10,
+    "category": "designer",
+    "company_name": "Facebook",
+    "post_date": "2023-05-13",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg",
+    "company_website": "https://www.facebook.com",
+    "job_title": "Interaction Designer",
+    "job_description": "We are looking for an Interaction Designer to create engaging and user-friendly designs for our products and services.",
+    "salary": "$100,000 - $130,000",
+    "company_location": "Menlo Park, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "3+ years of experience in interaction design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles and information architecture"
+      },
+      "what_you_will_do": "Create wireframes, prototypes and high-fidelity designs for interfaces, collaborate with cross-functional teams to ensure design consistency and usability, conduct user research and testing"
+    }
+  },
+  {
+    "id": 11,
+    "category": "designer",
+    "company_name": "Twitter",
+    "post_date": "2023-05-12",
+    "company_logo": "https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png",
+    "company_website": "https://www.twitter.com",
+    "job_title": "Brand Designer",
+    "job_description": "We are seeking a Brand Designer to create visually compelling designs for our brand and marketing materials.",
+    "salary": "$80,000 - $110,000",
+    "company_location": "San Francisco, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "3+ years of experience in branding and marketing design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of branding principles and typography"
+      },
+      "what_you_will_do": "Collaborate with cross-functional teams to develop branding and marketing materials, create visually compelling designs that align with brand guidelines, present design concepts to stakeholders"
+    }
+  },
+  {
+    "id": 12,
+    "category": "designer",
+    "company_name": "Airbnb",
+    "post_date": "2023-05-11",
+    "company_logo": "https://cdn.worldvectorlogo.com/logos/airbnb-1.svg",
+    "company_website": "https://www.airbnb.com",
+    "job_title": "UI/UX Designer",
+    "job_description": "We are looking for a talented UI/UX Designer to create exceptional user experiences for our platform.",
+    "salary": "$120,000 - $150,000",
+    "company_location": "San Francisco, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "5+ years of experience in UI/UX design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles and information architecture"
+      },
+      "what_you_will_do": "Create wireframes, prototypes and high-fidelity designs for interfaces, collaborate with cross-functional teams to ensure design consistency and usability, conduct user research and testing"
+    }
+  },
+  {
+    "id": 13,
+    "category": "designer",
+    "company_name": "Netflix",
+    "post_date": "2023-05-10",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "company_website": "https://www.netflix.com",
+    "job_title": "Visual Designer",
+    "job_description": "We are seeking a Visual Designer to create stunning designs for our streaming platform and marketing materials.",
+    "salary": "$90,000 - $120,000",
+    "company_location": "Los Gatos, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "3+ years of experience in visual design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of typography and layout"
+      },
+      "what_you_will_do": "Create visually stunning designs for our platform and marketing materials, collaborate with cross-functional teams to ensure design consistency and usability, present design concepts to stakeholders"
+    }
+  },
+  {
+    "id": 14,
+    "category": "designer",
+    "company_name": "Amazon",
+    "post_date": "2023-05-09",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "company_website": "https://www.amazon.com",
+    "job_title": "Graphic Designer",
+    "job_description": "We are looking for a talented Graphic Designer to create engaging visual designs for our marketing campaigns and product launches.",
+    "salary": "$80,000 - $100,000",
+    "company_location": "Seattle, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "3+ years of experience in graphic design",
+        "skills": "Proficient in design tools such as Adobe Creative Suite, strong understanding of typography and layout"
+      },
+      "what_you_will_do": "Create visually engaging designs for marketing campaigns and product launches, collaborate with cross-functional teams to ensure design consistency and usability, present design concepts to stakeholders"
+    }
+  },
+  {
+    "id": 15,
+    "category": "designer",
+    "company_name": "Nike",
+    "post_date": "2023-05-08",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg",
+    "company_website": "https://www.nike.com",
+    "job_title": "Product Designer",
+    "job_description": "We are seeking a Product Designer to create innovative and functional designs for our footwear and apparel products.",
+    "salary": "$100,000 - $130,000",
+    "company_location": "Beaverton, OR",
+    "work_details": { "type": "part time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "5+ years of experience in product design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of design thinking and user-centered design principles"
+      },
+      "what_you_will_do": "Create innovative and functional designs for our footwear and apparel products, collaborate with cross-functional teams to ensure design consistency and usability, present design concepts to stakeholders"
+    }
+  },
+  {
+    "id": 16,
+    "category": "designer",
+    "company_name": "Target",
+    "post_date": "2023-05-07",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Target_logo.svg",
+    "company_website": "https://www.target.com",
+    "job_title": "Senior UX Designer",
+    "job_description": "We are looking for a Senior UX Designer to lead the design of our digital products and experiences.",
+    "salary": "$120,000 - $150,000",
+    "company_location": "Minneapolis, MN",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "8+ years of experience in UX design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centereddesign principles, experience leading design teams"
+      },
+      "what_you_will_do": "Lead the design of our digital products and experiences, collaborate with cross-functional teams to ensure design consistency and usability, mentor and coach junior designers"
+    }
+  },
+  {
+    "id": 17,
+    "category": "designer",
+    "company_name": "IBM",
+    "post_date": "2023-05-06",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
+    "company_website": "https://www.ibm.com",
+    "job_title": "Visual Designer",
+    "job_description": "We are seeking a Visual Designer to create engaging visual designs for our enterprise software products.",
+    "salary": "$90,000 - $110,000",
+    "company_location": "Armonk, NY",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "5+ years of experience in visual design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of typography and layout, experience designing for enterprise software products"
+      },
+      "what_you_will_do": "Create engaging visual designs for our enterprise software products, collaborate with cross-functional teams to ensure design consistency and usability, present design concepts to stakeholders"
+    }
+  },
+  {
+    "id": 18,
+    "category": "designer",
+    "company_name": "Walmart",
+    "post_date": "2023-05-05",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Walmart_logo.svg",
+    "company_website": "https://www.walmart.com",
+    "job_title": "UX Designer",
+    "job_description": "We are looking for a UX Designer to design and optimize our digital shopping experiences.",
+    "salary": "$80,000 - $100,000",
+    "company_location": "Bentonville, AR",
+    "work_details": { "type": "part time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "3+ years of experience in UX design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles"
+      },
+      "what_you_will_do": "Design and optimize our digital shopping experiences, collaborate with cross-functional teams to ensure design consistency and usability, present design concepts to stakeholders"
+    }
+  },
+  {
+    "id": 19,
+    "category": "designer",
+    "company_name": "Salesforce",
+    "post_date": "2023-05-04",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg",
+    "company_website": "https://www.salesforce.com",
+    "job_title": "Product Designer",
+    "job_description": "We are seeking a Product Designer to create innovative and engaging designs for our cloud-based software products.",
+    "salary": "$110,000 - $140,000",
+    "company_location": "San Francisco, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Design or related field",
+        "experience": "5+ years of experience in product design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles, experience designing for cloud-based software products"
+      },
+      "what_you_will_do": "Create innovative and engaging designs for our cloud-based software products, collaborate with cross-functional teams to ensure design consistency and usability, present design concepts to stakeholders"
+    }
+  },
+  {
+    "id": 20,
+    "category": "designer",
+    "company_name": "Intel",
+    "post_date": "2023-05-03",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Intel_logo_%282020%2C_light_blue%29.svg",
+    "company_website": "https://www.intel.com",
+    "job_title": "Interaction Designer",
+    "job_description": "We are seeking an Interaction Designer to create intuitive and engaging designs for our software products.",
+    "salary": "$90,000 - $110,000",
+    "company_location": "Santa Clara, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Design or related field",
+        "experience": "3+ years of experience in interaction design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles, experience designing for software products"
+      },
+      "what_you_will_do": "Create intuitive and engaging designs for our software products, collaborate with cross-functional teams to ensure design consistency and usability, present design concepts to stakeholders"
+    }
+  },
+  {
+    "id": 21,
+    "category": "designer",
+    "company_name": "Nike",
+    "post_date": "2023-05-02",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg",
+    "company_website": "https://www.nike.com",
+    "job_title": "Graphic Designer",
+    "job_description": "We are seeking a Graphic Designer to create compelling designs for our marketing campaigns and product launches.",
+    "salary": "$70,000 - $90,000",
+    "company_location": "Beaverton, OR",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Design or related field",
+        "experience": "3+ years of experience in graphic design",
+        "skills": "Proficient in design tools such as Photoshop, Illustrator or InDesign, strong understanding of typography and layout, experience designing for marketing campaigns and product launches"
+      },
+      "what_you_will_do": "Create compelling designs for our marketing campaigns and product launches, collaborate with cross-functional teams to ensure design consistency and usability, present design concepts to stakeholders"
+    }
+  },
+  {
+    "id": 22,
+    "category": "designer",
+    "company_name": "Apple",
+    "post_date": "2023-05-17",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+    "company_website": "https://www.apple.com",
+    "job_title": "Product Designer",
+    "job_description": "We are looking for a Product Designer to create beautiful and intuitive designs for our products.",
+    "salary": "$100,000 - $130,000",
+    "company_location": "Cupertino, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Design or related field",
+        "experience": "5+ years of experience in product design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles, experience designing for hardware and software products"
+      },
+      "what_you_will_do": "Create beautiful and intuitive designs for our products, collaborate with cross-functional teams to ensure design consistency and usability, present design concepts to stakeholders"
+    }
+  },
+  {
+    "id": 23,
+    "category": "designer",
+    "company_name": "Google",
+    "post_date": "2023-05-16",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+    "company_website": "https://www.google.com",
+    "job_title": "UX Designer",
+    "job_description": "We are seeking a UX Designer to create user-centric designs for our products and services.",
+    "salary": "$90,000 - $120,000",
+    "company_location": "Mountain View, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Design or related field",
+        "experience": "3+ years of experience in UX design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles, experience designing for web and mobile products"
+      },
+      "what_you_will_do": "Create user-centric designs for our products and services, collaborate with cross-functional teams to ensure design consistency and usability, conduct user research and usability testing"
+    }
+  },
+  {
+    "id": 24,
+    "category": "designer",
+    "company_name": "Facebook",
+    "post_date": "2023-05-15",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg",
+    "company_website": "https://www.facebook.com",
+    "job_title": "Visual Designer",
+    "job_description": "We are seeking a Visual Designer to create visually appealing designsfor our products and services.",
+    "salary": "$80,000 - $100,000",
+    "company_location": "Menlo Park, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Design or related field",
+        "experience": "3+ years of experience in visual design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of visual design principles, experience designing for web and mobile products"
+      },
+      "what_you_will_do": "Create visually appealing designs for our products and services, collaborate with cross-functional teams to ensure design consistency and brand guidelines, present design concepts to stakeholders"
+    }
+  },
+  {
+    "id": 25,
+    "category": "designer",
+    "company_name": "Tesla",
+    "post_date": "2023-05-14",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg",
+    "company_website": "https://www.tesla.com",
+    "job_title": "UI Designer",
+    "job_description": "We are seeking a UI Designer to create visually appealing and user-friendly interfaces for our products and services.",
+    "salary": "$90,000 - $120,000",
+    "company_location": "Palo Alto, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Design or related field",
+        "experience": "5+ years of experience in UI design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles, experience designing for web and mobile products"
+      },
+      "what_you_will_do": "Create visually appealing and user-friendly interfaces for our products and services, collaborate with cross-functional teams to ensure design consistency and usability, conduct user research and usability testing"
+    }
+  },
+  {
+    "id": 26,
+    "category": "designer",
+    "company_name": "Amazon",
+    "post_date": "2023-05-13",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "company_website": "https://www.amazon.com",
+    "job_title": "Product Designer",
+    "job_description": "We are seeking a Product Designer to create innovative designs for our products and services.",
+    "salary": "$100,000 - $130,000",
+    "company_location": "Seattle, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Design or related field",
+        "experience": "5+ years of experience in product design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles, experience designing for web and mobile products"
+      },
+      "what_you_will_do": "Create innovative designs for our products and services, collaborate with cross-functional teams to ensure design consistency and usability, present design concepts to stakeholders"
+    }
+  },
+  {
+    "id": 27,
+    "category": "designer",
+    "company_name": "Nike",
+    "post_date": "2023-05-12",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg",
+    "company_website": "https://www.nike.com",
+    "job_title": "Graphic Designer",
+    "job_description": "We are seeking a Graphic Designer to create visually appealing designs for our marketing campaigns and products.",
+    "salary": "$70,000 - $90,000",
+    "company_location": "Beaverton, OR",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Design or related field",
+        "experience": "3+ years of experience in graphic design",
+        "skills": "Proficient in design tools such as Adobe Photoshop and Illustrator, strong understanding of typography and color theory, experience creating designs for print and digital media"
+      },
+      "what_you_will_do": "Create visually appealing designs for our marketing campaigns and products, collaborate with cross-functional teams to ensure design consistency and brand guidelines, present design concepts to stakeholders"
+    }
+  },
+  {
+    "id": 28,
+    "category": "designer",
+    "company_name": "Apple",
+    "post_date": "2023-05-11",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+    "company_website": "https://www.apple.com",
+    "job_title": "UX Designer",
+    "job_description": "We are seeking a UX Designer to create user-centered designs for our products and services.",
+    "salary": "$110,000 - $140,000",
+    "company_location": "Cupertino, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Design or related field",
+        "experience": "5+ years of experience in UX design",
+        "skills": "Proficient in design tools such as Sketch, Figma or Adobe XD, strong understanding of user-centered design principles, experience conducting user research and usability testing"
+      },
+      "what_you_will_do": "Create user-centered designs for our products and services, collaborate with cross-functional teams to ensure design consistency and usability, conduct user research and usability testing"
+    }
+  },
+  {
+    "id": 1001,
+    "category": "developer",
+    "company_name": "Google",
+    "post_date": "2023-05-15",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+    "company_website": "https://www.google.com/",
+    "job_title": "Software Engineer",
+    "job_description": "We are looking for a software engineer to join our team and help us build the next generation of Google products.",
+    "salary": "$120,000 - $160,000",
+    "company_location": "Mountain View, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Computer Science or related field",
+        "experience": "3+ years of software development experience",
+        "skills": "Strong proficiency in one or more programming languages such as Java, Python, or C++"
+      },
+      "what_you_will_do": "As a software engineer at Google, you will be responsible for designing, developing, and maintaining high-performance software systems that power Google's products and services."
+    }
+  },
+  {
+    "id": 1002,
+    "category": "developer",
+    "company_name": "Microsoft",
+    "post_date": "2023-05-15",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+    "company_website": "https://www.microsoft.com/",
+    "job_title": "Front End Developer",
+    "job_description": "We are seeking a talented front end developer to join our team and help us build engaging and responsive user interfaces for our products.",
+    "salary": "$100,000 - $130,000",
+    "company_location": "Redmond, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Computer Science or related field",
+        "experience": "3+ years of front end development experience",
+        "skills": "Strong proficiency in HTML, CSS, and JavaScript"
+      },
+      "what_you_will_do": "As a front end developer at Microsoft, you will be responsible for developing and maintaining user interfaces for our products, collaborating with designers and other developers to create engaging and responsive experiences for our users."
+    }
+  },
+  {
+    "id": 1003,
+    "category": "developer",
+    "company_name": "Amazon",
+    "post_date": "2023-05-15",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "company_website": "https://aws.amazon.com/",
+    "job_title": "Backend Developer",
+    "job_description": "We are looking for a skilled backend developer to join our team and help us build highly scalable and reliable cloud-based applications.",
+    "salary": "$130,000 - $160,000",
+    "company_location": "Seattle, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Computer Science or related field",
+        "experience": "5+ years of software development experience",
+        "skills": "Strong proficiency in one or more programming languages such as Java, Python, or Go"
+      },
+      "what_you_will_do": "As a backend developer at Amazon, you will be responsible for designing and developing highly scalable and reliable cloud-based applications, using cutting-edge technologies such as AWS services and serverless computing."
+    }
+  },
+  {
+    "id": 1004,
+    "category": "developer",
+    "company_name": "Amazon",
+    "post_date": "2023-05-15",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "company_website": "https://aws.amazon.com/",
+    "job_title": "Backend Developer",
+    "job_description": "We are looking for a skilled backend developer to join our team and help us build highly scalable and reliable cloud-based applications.",
+    "salary": "$130,000 - $160,000",
+    "company_location": "Seattle, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Computer Science or related field",
+        "experience": "5+ years of software development experience",
+        "skills": "Strong proficiency in one or more programming languages such as Java, Python, or Go"
+      },
+      "what_you_will_do": "As a backend developer at Amazon, you will be responsible for designing and developing highly scalable and reliable cloud-based applications, using cutting-edge technologies such as AWS services and serverless computing."
+    }
+  },
+  {
+    "id": 1005,
+    "category": "developer",
+    "company_name": "Facebook",
+    "post_date": "2023-05-15",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg",
+    "company_website": "https://www.facebook.com/",
+    "job_title": "Full Stack Web Developer",
+    "job_description": "We are looking for a full stack web developer to join our team and help us build and maintain high-performance web applications.",
+    "salary": "$120,000 - $150,000",
+    "company_location": "Menlo Park, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Computer Science or related field",
+        "experience": "3+ years of full stack web development experience",
+        "skills": "Strong proficiency in one or more programming languages such as JavaScript, Python, or Ruby, and experience with modern web development frameworks such as React or Angular"
+      },
+      "what_you_will_do": "As a full stack web developer at Facebook, you will be responsible for developing and maintaining high-performance web applications that serve millions of users every day, using cutting-edge technologies and frameworks."
+    }
+  },
+  {
+    "id": 1006,
+    "category": "developer",
+    "company_name": "Amazon",
+    "post_date": "2023-05-15",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "company_website": "https://aws.amazon.com/",
+    "job_title": "Backend Developer",
+    "job_description": "We are looking for a skilled backend developer to join our team and help us build highly scalable and reliable cloud-based applications.",
+    "salary": "$130,000 - $160,000",
+    "company_location": "Seattle, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Computer Science or related field",
+        "experience": "5+ years of software development experience",
+        "skills": "Strong proficiency in one or more programming languages such as Java, Python, or Go"
+      },
+      "what_you_will_do": "As a backend developer at Amazon, you will be responsible for designing and developing highly scalable and reliable cloud-based applications, using cutting-edge technologies such as AWS services and serverless computing."
+    }
+  },
+  {
+    "id": 1007,
+    "category": "developer",
+    "company_name": "Facebook",
+    "post_date": "2023-05-15",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg",
+    "company_website": "https://www.facebook.com/",
+    "job_title": "Full Stack Web Developer",
+    "job_description": "We are looking for a full stack web developer to join our team and help us build and maintain high-performance web applications.",
+    "salary": "$120,000 - $150,000",
+    "company_location": "Menlo Park, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Computer Science or related field",
+        "experience": "3+ years of full stack web development experience",
+        "skills": "Strong proficiency in one or more programming languages such as JavaScript, Python, or Ruby, and experience with modern web development frameworks such as React or Angular"
+      },
+      "what_you_will_do": "As a full stack web developer at Facebook, you will be responsible for developing and maintaining high-performance web applications that serve millions of users every day, using cutting-edge technologies and frameworks."
+    }
+  },
+  {
+    "id": 1008,
+    "category": "developer",
+    "company_name": "Uber",
+    "post_date": "2023-05-15",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Uber_logo_2018.svg",
+    "company_website": "https://www.uber.com/",
+    "job_title": "Mobile Application Developer",
+    "job_description": "We are looking for an experienced mobile application developer to join our team and help us build and maintain cutting-edge mobile applications for our users.",
+    "salary": "$120,000 - $150,000",
+    "company_location": "San Francisco, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Computer Science or related field",
+        "experience": "3+ years of mobile application development experience",
+        "skills": "Strong proficiency in one or more mobile development platforms such as iOS or Android, and experience with modern mobile development frameworks such as React Native or Flutter"
+      },
+      "what_you_will_do": "As a mobile application developer at Uber, you will be responsible for developing and maintaining cutting-edge mobile applications that serve millions of users every day, using the latest technologies and frameworks."
+    }
+  },
+  {
+    "id": 1009,
+    "category": "developer",
+    "company_name": "Microsoft",
+    "post_date": "2023-05-15",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+    "company_website": "https://www.microsoft.com/",
+    "job_title": "Cloud Developer",
+    "job_description": "We are looking for a talented cloud developer to join our team and help us build highly scalable and reliable cloud-based applications.",
+    "salary": "$130,000 - $160,000",
+    "company_location": "Redmond, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Computer Science or related field",
+        "experience": "5+ years of software development experience",
+        "skills": "Strong proficiency in one or more programming languages such as Java, Python, or C#, and experience with cloud platforms such as Azure or AWS"
+      },
+      "what_you_will_do": "As a cloud developer at Microsoft, you will be responsible for designing and developing highly scalable and reliable cloud-based applications, using cutting-edge technologies such as Azure services and serverless computing."
+    }
+  },
+  {
+    "id": 1010,
+    "category": "developer",
+    "company_name": "Amazon",
+    "post_date": "2023-05-16",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "company_website": "https://aws.amazon.com/",
+    "job_title": "Cloud Solutions Architect",
+    "job_description": "We are looking for an experienced cloud solutions architect to join our team and help our customers build scalable and reliable cloud-based solutions.",
+    "salary": "$150,000 - $180,000",
+    "company_location": "Seattle, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's degree in Computer Science or related field",
+        "experience": "10+ years of experience in software development or IT architecture",
+        "skills": "Expertise in designing and deploying cloud-based solutions using AWS services, and strong proficiency in one or more programming languages such as Java, Python, or Ruby"
+      },
+      "what_you_will_do": "As a cloud solutions architect at Amazon, you will work closely with customers to understand their requirements, design scalable and reliable cloud-based solutions using AWS services, and lead the implementation of these solutions."
+    }
+  },
+  {
+    "id": 1011,
+    "category": "developer",
+    "company_name": "Intel",
+    "post_date": "2023-05-16",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Intel_logo_%282020%2C_light_blue%29.svg",
+    "company_website": "https://www.intel.com/",
+    "job_title": "Software Engineer",
+    "job_description": "We are seeking an experienced software engineer to join our team and work on cutting-edge projects that advance the state-of-the-art in computing technology.",
+    "salary": "$120,000 - $150,000",
+    "company_location": "Santa Clara, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Computer Science or related field",
+        "experience": "5+ years of experience in software development",
+        "skills": "Strong proficiency in one or more programming languages such as C++, Java, or Python, and experience with software development tools and methodologies"
+      },
+      "what_you_will_do": "As a software engineer at Intel, you will work on cutting-edge projects that push the boundaries of computing technology, collaborating with a team of experts to design, develop, and test new software solutions."
+    }
+  },
+  {
+    "id": 1012,
+    "category": "developer",
+    "company_name": "Microsoft",
+    "post_date": "2023-05-17",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+    "company_website": "https://www.microsoft.com",
+    "job_title": "Full Stack Developer",
+    "job_description": "We are looking for a Full Stack Developer to build and maintain web applications.",
+    "salary": "$90,000 - $120,000",
+    "company_location": "Redmond, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Computer Science or related field",
+        "experience": "3+ years of experience in web development",
+        "skills": "Proficient in HTML, CSS, JavaScript, and at least one backend language (e.g., Python, Java, or Node.js), experience with front-end frameworks (e.g., React, Angular, or Vue.js), knowledge of database systems (e.g., SQL, MongoDB, or PostgreSQL)"
+      },
+      "what_you_will_do": "Design and develop web applications, collaborate with cross-functional teams to define and implement features, conduct code reviews and testing"
+    }
+  },
+  {
+    "id": 1013,
+    "category": "developer",
+    "company_name": "Google",
+    "post_date": "2023-05-16",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+    "company_website": "https://www.google.com",
+    "job_title": "Mobile App Developer",
+    "job_description": "We are seeking a Mobile App Developer to create innovative and user-friendly mobile applications.",
+    "salary": "$100,000 - $130,000",
+    "company_location": "Mountain View, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Computer Science or related field",
+        "experience": "3+ years of experience in mobile app development",
+        "skills": "Proficient in a mobile app development framework (e.g., Flutter, React Native, or Swift), strong understanding of mobile UI/UX design principles, knowledge of RESTful APIs and integration"
+      },
+      "what_you_will_do": "Develop innovative and user-friendly mobile applications, collaborate with designers and product managers to define app features and functionalities, conduct code reviews and testing"
+    }
+  },
+  {
+    "id": 1014,
+    "category": "developer",
+    "company_name": "Amazon",
+    "post_date": "2023-05-15",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "company_website": "https://www.amazon.com",
+    "job_title": "Backend Developer",
+    "job_description": "We are seeking a Backend Developer to build and maintain scalable and robust server-side applications.",
+    "salary": "$80,000 - $100,000",
+    "company_location": "Seattle, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Computer Science or related field",
+        "experience": "5+ years of experience in backend development",
+        "skills": "Proficient in at least one backend language (e.g., Python, Java, or Node.js), knowledge of database systems (e.g., SQL, MongoDB, or PostgreSQL), experience with cloud technologies (e.g., AWS, Azure, or Google Cloud)"
+      },
+      "what_you_will_do": "Design and develop scalable and robust server-side applications, collaborate with cross-functional teams to define and implement features, conduct code reviews and testing"
+    }
+  },
+  {
+    "id": 1015,
+    "category": "developer",
+    "company_name": "Facebook",
+    "post_date": "2023-05-14",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg",
+    "company_website": "https://www.facebook.com",
+    "job_title": "Frontend Developer",
+    "job_description": "We are looking for a Frontend Developer to create responsive and user-friendly web interfaces.",
+    "salary": "$90,000 - $120,000",
+    "company_location": "Menlo Park, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Computer Science or related field",
+        "experience": "3+ years of experience in frontend development",
+        "skills": "Proficient in HTML, CSS, and JavaScript, experience with frontend frameworks (e.g., React, Angular, or Vue.js), knowledge of responsive design principles and cross-browser compatibility"
+      },
+      "what_you_will_do": "Develop responsive and user-friendly web interfaces, collaborate with designers and backend developers to integrate frontend components, conduct code reviews and testing"
+    }
+  },
+  {
+    "id": 1016,
+    "category": "developer",
+    "company_name": "Apple",
+    "post_date": "2023-05-13",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+    "company_website": "https://www.apple.com",
+    "job_title": "iOS Developer",
+    "job_description": "We are seeking an iOS Developer to create cutting-edge and user-friendly mobile applications for iOS devices.",
+    "salary": "$100,000 - $130,000",
+    "company_location": "Cupertino, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Computer Science or related field",
+        "experience": "3+ years of experience in iOS app development",
+        "skills": "Proficient in Swift and Xcode, strong understanding of iOS UI/UX design principles, knowledge of Apple's Human Interface Guidelines and App Store submission process"
+      },
+      "what_you_will_do": "Develop cutting-edge and user-friendly mobile applications for iOS devices, collaborate with designers and backend developers to define app features and functionalities, conduct code reviews and testing"
+    }
+  },
+  {
+    "id": 1017,
+    "category": "developer",
+    "company_name": "Netflix",
+    "post_date": "2023-05-12",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+    "company_website": "https://www.netflix.com",
+    "job_title": "Backend Developer",
+    "job_description": "We are looking for a Backend Developer to design and implement scalable and high-performance server-side applications.",
+    "salary": "$90,000 - $120,000",
+    "company_location": "Los Gatos, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Computer Science or related field",
+        "experience": "5+ years of experience in backend development",
+        "skills": "Proficient in at least one backend language (e.g., Python, Java, or Node.js), knowledge of database systems (e.g., SQL, MongoDB, or PostgreSQL), experience with cloud technologies (e.g., AWS, Azure, or Google Cloud)"
+      },
+      "what_you_will_do": "Design and implement scalable and high-performance server-side applications, collaborate with cross-functional teams to define and implement features, conduct code reviews and testing"
+    }
+  },
+  {
+    "id": 1018,
+    "category": "developer",
+    "company_name": "Tesla",
+    "post_date": "2023-05-11",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg",
+    "company_website": "https://www.tesla.com",
+    "job_title": "Embedded Systems Engineer",
+    "job_description": "We are seeking an Embedded Systems Engineer to develop software for Tesla's vehicle systems.",
+    "salary": "$100,000 - $130,000",
+    "company_location": "Palo Alto, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Computer Engineering or related field",
+        "experience": "3+ years of experience in embedded systems development",
+        "skills": "Proficient in C/C++, experience with microcontroller programming and debugging, knowledge of communication protocols (e.g., CAN, SPI, I2C)"
+      },
+      "what_you_will_do": "Develop software for Tesla's vehicle systems, collaborate with hardware engineers to integrate software with hardware components, conduct code reviews and testing"
+    }
+  },
+  {
+    "id": 1019,
+    "category": "developer",
+    "company_name": "Adobe",
+    "post_date": "2023-05-10",
+    "company_logo": "https://static.wikia.nocookie.net/logopedia/images/3/39/Adobe_%282022%29.svg/revision/latest/scale-to-width-down/300?cb=20221003064007",
+    "company_website": "https://www.adobe.com",
+    "job_title": "UI/UX Designer",
+    "job_description": "We are looking for a UI/UX Designer to create visually appealing and intuitive user interfaces for Adobe's products.",
+    "salary": "$90,000 - $120,000",
+    "company_location": "San Jose, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Design or related field",
+        "experience": "3+ years of experience in UI/UX design",
+        "skills": "Proficient in design tools (e.g., Adobe XD, Sketch, or Figma), strong understanding of user-centered design principles, knowledge of front-end technologies (e.g., HTML, CSS, and JavaScript)"
+      },
+      "what_you_will_do": "Create visually appealing and intuitive user interfaces for Adobe's products, collaborate with cross-functional teams to define and implement design solutions, conduct user research and testing"
+    }
+  },
+  {
+    "id": 1020,
+    "category": "developer",
+    "company_name": "Uber",
+    "post_date": "2023-05-09",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Uber_logo_2018.svg",
+    "company_website": "https://www.uber.com",
+    "job_title": "Machine Learning Engineer",
+    "job_description": "We are seeking a Machine Learning Engineer to develop and deploy machine learning models for Uber's services.",
+    "salary": "$100,000 - $130,000",
+    "company_location": "San Francisco, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Master's or Ph.D. degree in Computer Science or related field",
+        "experience": "3+ years of experience in machine learning engineering",
+        "skills": "Proficient in Python and machine learning libraries (e.g., TensorFlow, PyTorch, or scikit-learn), experience with data preprocessing and feature engineering, knowledge of cloud platforms and distributed computing"
+      },
+      "what_you_will_do": "Develop and deploy machine learning models for Uber's services, collaborate with data scientists and software engineers to integrate models into production systems, conduct experiments and analysis"
+    }
+  },
+  {
+    "id": 1021,
+    "category": "developer",
+    "company_name": "IBM",
+    "post_date": "2023-05-08",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
+    "company_website": "https://www.ibm.com",
+    "job_title": "Cloud Solutions Architect",
+    "job_description": "We are looking for a Cloud Solutions Architect to design and implement cloud-based solutions for IBM's clients.",
+    "salary": "$90,000 - $120,000",
+    "company_location": "Armonk, NY",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Computer Science or related field",
+        "experience": "5+ years of experience in cloud computing and architecture",
+        "skills": "Proficient in at least one cloud platform (e.g., AWS, Azure, or Google Cloud), strong understanding of cloud computing concepts and architectures, experience with containerization and orchestration tools (e.g., Docker and Kubernetes)"
+      },
+      "what_you_will_do": "Design and implement cloud-based solutions for IBM's clients, collaborate with cross-functional teams to define and implement architecture solutions, conduct workshops and presentations"
+    }
+  },
+  {
+    "id": 1022,
+    "category": "developer",
+    "company_name": "Microsoft",
+    "post_date": "2023-05-07",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+    "company_website": "https://www.microsoft.com",
+    "job_title": "Software Engineer",
+    "job_description": "We are seeking a Software Engineer to develop and maintain software solutions for Microsoft's products.",
+    "salary": "$100,000 - $130,000",
+    "company_location": "Redmond, WA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Computer Science or related field",
+        "experience": "3+ years of experience in software development",
+        "skills": "Proficient in at least one programming language (e.g., C++, C#, or Java), knowledge of software development methodologies and best practices, experience with version control systems (e.g., Git or SVN)"
+      },
+      "what_you_will_do": "Develop and maintain software solutions for Microsoft's products, collaborate with cross-functional teams to define and implement features, conduct code reviews and testing"
+    }
+  },
+  {
+    "id": 1023,
+    "category": "developer",
+    "company_name": "Google",
+    "post_date": "2023-05-06",
+    "company_logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+    "company_website": "https://www.google.com",
+    "job_title": "Android Developer",
+    "job_description": "We are looking for an Android Developer to build innovative and high-quality mobile applications for Android devices.",
+    "salary": "$90,000 - $120,000",
+    "company_location": "Mountain View, CA",
+    "work_details": { "type": "full time", "work_location": "On-Site" },
+    "details": {
+      "requirements": {
+        "education": "Bachelor's or Master's degree in Computer Science or related field",
+        "experience": "3+ years of experience in Android app development",
+        "skills": "Proficient in Java and Kotlin, strong understanding of Android SDK and design patterns, knowledge of RESTful APIs and mobile security best practices"
+      },
+      "what_you_will_do": "Build innovative and high-quality mobile applications for Android devices, collaborate with designers and backend developers to integrate app features, conduct code reviews and testing"
+    }
+  }
+]

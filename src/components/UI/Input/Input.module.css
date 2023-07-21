@@ -1,0 +1,24 @@
+.inp {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  width: 100%;
+  margin: 10px 0;
+}
+
+.inp label {
+  font-weight: 500;
+}
+
+.inp input {
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  transition: 0.4s;
+}
+.inp input:focus {
+  box-shadow: 0 0 5px 0 #8888ff;
+  border-color: #2524d1;
+}

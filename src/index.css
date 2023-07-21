@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+:root {
+  --Gray-- : #555;
+  --MainColor-- : #fff;
+  --BGColor-- : #f5f5f5;
+  --MainTextColor-- : #000;
+  --CustomTextColor-- : #fff;
+  --PurpleTextColor-- : #2524d1;
+  --LightPurpleTextColor-- : #e4e3ff;
+  --LightTextColor--: #878787;
+  --TruePurple-- : #793bff;
+  --LightGray-- : #e4e3ff;
+  --ShadowColor-- : #eee;
+  --MoneyColor-- : #55b163;
+  --inputBorderColor-- : #ddd;
+  --TagBGColor-- : #eeeeee;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body::-webkit-scrollbar {
+  width: 0;
+}
+
+
+html {
+  font-family: sans-serif;
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
